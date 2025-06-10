@@ -2,5 +2,3 @@ This applescript undocks all ejectable disks and turns on the airport wireless n
 
 After cloning just copy undock.app to your Applications directory. 
 
-
-test
